@@ -1,0 +1,20 @@
+[
+  {
+    "id": "WMO",
+    "name": "World Meteorological Organization — State of the Global Climate",
+    "url": "https://wmo.int/publication-series/state-of-global-climate",
+    "note": "Background reference; no measurements imported from this site."
+  },
+  {
+    "id": "FAO",
+    "name": "FAO AQUASTAT",
+    "url": "https://www.fao.org/aquastat/en/",
+    "note": "Potential source for later curated country-level water data; not used for scenario values."
+  },
+  {
+    "id": "UNWATER",
+    "name": "UN-Water SDG 6 Data Portal",
+    "url": "https://www.sdg6data.org/",
+    "note": "Reference for water and sanitation indicators; not used for scenario values."
+  }
+]
