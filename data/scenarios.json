@@ -1,0 +1,41 @@
+[
+  {
+    "id": "BASIN_A",
+    "region": "Illustrative Basin A",
+    "date": "2026-11-15",
+    "rainfall_mm_30d": 24,
+    "rainfall_baseline_mm_30d": 90,
+    "reservoir_pct": 28,
+    "demand_mld": 12,
+    "supply_mld": 9,
+    "last_observation_days": 2,
+    "missing_fields": 0,
+    "source_type": "synthetic"
+  },
+  {
+    "id": "BASIN_B",
+    "region": "Illustrative Basin B",
+    "date": "2026-11-15",
+    "rainfall_mm_30d": 68,
+    "rainfall_baseline_mm_30d": 85,
+    "reservoir_pct": 62,
+    "demand_mld": 8,
+    "supply_mld": 8.5,
+    "last_observation_days": 12,
+    "missing_fields": 0,
+    "source_type": "synthetic"
+  },
+  {
+    "id": "BASIN_C",
+    "region": "Illustrative Basin C",
+    "date": "2026-11-15",
+    "rainfall_mm_30d": null,
+    "rainfall_baseline_mm_30d": 75,
+    "reservoir_pct": 41,
+    "demand_mld": 10,
+    "supply_mld": null,
+    "last_observation_days": 48,
+    "missing_fields": 2,
+    "source_type": "synthetic"
+  }
+]
